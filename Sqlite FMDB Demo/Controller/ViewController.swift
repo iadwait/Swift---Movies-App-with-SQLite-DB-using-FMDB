@@ -121,5 +121,18 @@ class ViewController: UIViewController,UITableViewDataSource,UITableViewDelegate
         return 119
     }
     
+    func tableView(_ tableView: UITableView, commit editingStyle: UITableViewCell.EditingStyle, forRowAt indexPath: IndexPath) {
+        
+        if editingStyle == .delete
+        {
+            if DatabaseManager.shared.deleteMovie(ID: moviesData[indexPath.row].movieID)
+            {
+                moviesData.remove(at: indexPath.row)
+                tableView.reloadData()
+            }
+        }
+        
+    }
+    
 }
 

@@ -225,4 +225,23 @@ class DatabaseManager : NSObject {
         }
     }
     
+    func deleteMovie(ID: Int) -> Bool
+    {
+        var isDeleted = false
+        if openDatabase()
+        {
+            let query = "delete from movies where \(field_MovieID) = \(ID)"
+            
+            do{
+                try database.executeUpdate(query, values: nil)
+                isDeleted = true
+            }catch let err{
+                print("Error Deleting - \(err.localizedDescription)")
+            }
+            
+            database.close()
+        }
+        return isDeleted
+    }
+    
 }
