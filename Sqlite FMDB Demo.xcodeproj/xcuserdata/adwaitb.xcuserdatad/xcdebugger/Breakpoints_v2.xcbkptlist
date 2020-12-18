@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "BFABC34E-C941-4D10-BB70-132D9289E4F5"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "59A48409-DE6F-4B64-9253-54747068B054"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sqlite FMDB Demo/Database Manager/DatabaseManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "115"
+            endingLineNumber = "115"
+            landmarkName = "insertMoviesData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "59A48409-DE6F-4B64-9253-54747068B054 - a1fd23f0d8e2e8ef"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sqlite_FMDB_Demo.DatabaseManager.insertMoviesData() -&gt; ()"
+                  moduleName = "Sqlite FMDB Demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adwaitb/Documents/Adwait%20Barkale/Training%20Part/Sqlite%20FMDB%20Demo/Sqlite%20FMDB%20Demo/Database%20Manager/DatabaseManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "116"
+                  endingLineNumber = "116"
+                  offsetFromSymbolStart = "1014">
+               </Location>
+               <Location
+                  uuid = "59A48409-DE6F-4B64-9253-54747068B054 - a1fd23f0d8e2e8ef"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sqlite_FMDB_Demo.DatabaseManager.insertMoviesData() -&gt; ()"
+                  moduleName = "Sqlite FMDB Demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adwaitb/Documents/Adwait%20Barkale/Training%20Part/Sqlite%20FMDB%20Demo/Sqlite%20FMDB%20Demo/Database%20Manager/DatabaseManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "116"
+                  endingLineNumber = "116"
+                  offsetFromSymbolStart = "1143">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F2325E66-3E5E-4840-95BC-787A7FEF362B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sqlite FMDB Demo/Database Manager/DatabaseManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "145"
+            endingLineNumber = "145"
+            landmarkName = "insertMoviesData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3EA0DEC7-E545-4979-9A2C-DD908A37A336"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sqlite FMDB Demo/Database Manager/DatabaseManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "117"
+            endingLineNumber = "117"
+            landmarkName = "insertMoviesData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3EA0DEC7-E545-4979-9A2C-DD908A37A336 - a1fd23f0d8e2e8ef"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sqlite_FMDB_Demo.DatabaseManager.insertMoviesData() -&gt; ()"
+                  moduleName = "Sqlite FMDB Demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adwaitb/Documents/Adwait%20Barkale/Training%20Part/Sqlite%20FMDB%20Demo/Sqlite%20FMDB%20Demo/Database%20Manager/DatabaseManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "118"
+                  endingLineNumber = "118"
+                  offsetFromSymbolStart = "1182">
+               </Location>
+               <Location
+                  uuid = "3EA0DEC7-E545-4979-9A2C-DD908A37A336 - a1fd23f0d8e2e8ef"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sqlite_FMDB_Demo.DatabaseManager.insertMoviesData() -&gt; ()"
+                  moduleName = "Sqlite FMDB Demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adwaitb/Documents/Adwait%20Barkale/Training%20Part/Sqlite%20FMDB%20Demo/Sqlite%20FMDB%20Demo/Database%20Manager/DatabaseManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "118"
+                  endingLineNumber = "118"
+                  offsetFromSymbolStart = "1327">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "66AA2485-60AF-4083-BDD7-5A6FF02906B6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sqlite FMDB Demo/Database Manager/DatabaseManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "181"
+            endingLineNumber = "181"
+            landmarkName = "loadMovies()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "05C66F82-CB73-48C0-9583-BA5A47B9B9D0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sqlite FMDB Demo/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
